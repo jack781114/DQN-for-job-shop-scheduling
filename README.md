@@ -11,6 +11,7 @@ In industrial manufacturing, production scheduling is a task of significant impo
 
 # Reference
 - Luo, S., Zhang, L. X., & Fan, Y. S. (2021). Dynamic multi-objective scheduling for flexible job shop by deep reinforcement learning. Computers & Industrial Engineering, 159, Article 107489. https://doi.org/10.1016/j.cie.2021.107489 
+- Yang, H. B., Li, W. C., & Wang, B. (2021). Joint optimization of preventive maintenance and production scheduling for multi-state production systems based on reinforcement learning. Reliability Engineering & System Safety, 214, Article 107713. https://doi.org/10.1016/j.ress.2021.107713
 
 
 
