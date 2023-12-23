@@ -10,7 +10,7 @@ Reinforcement Learning (RL), as a learning algorithm that considers long-term ob
 
 # Methodology
 
-# Data Collection and Analysis Result
+# How to redo this result
 
 # Reference
 - Luo, S., Zhang, L. X., & Fan, Y. S. (2021). Dynamic multi-objective scheduling for flexible job shop by deep reinforcement learning. Computers & Industrial Engineering, 159, Article 107489. https://doi.org/10.1016/j.cie.2021.107489 
