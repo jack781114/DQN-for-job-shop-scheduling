@@ -31,8 +31,10 @@ main/test_case_GA: Executable files.
 2. After execution, you will be able to observe the scheduling results for different methods.
 3. You can further enhance the results of DQN by modifying the Agent and RL_network.
 
-The following is the execution result.(use la16)
+The following is the execution result.(use la16)  
+
 ![image](https://github.com/jack781114/DQN-for-job-shop-scheduling/assets/102982532/f70ade1b-6f75-46b7-ae51-fa0a8729c0f9)
+
 ![image](https://github.com/jack781114/DQN-for-job-shop-scheduling/assets/102982532/c9728e19-77a2-4ab4-9dfc-ee98a91e9d81)
 
 # Reference
