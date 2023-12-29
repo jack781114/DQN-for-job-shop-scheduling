@@ -13,7 +13,7 @@ The experimental framework is illustrated in the following diagram.
 
 ![Model_structure](https://github.com/jack781114/DQN-for-job-shop-scheduling/assets/102982532/7900ee85-b7e6-4cf2-bda3-3233beee762b)
 
-This DQN architecture incorporates Dueling DQN and experience replay.
+This architecture incorporates Dueling DQN and experience replay.
 
 # How to redo this result
 1. Select the data to be used for scheduling from main, JSP_env, and test_case_GA, and modify the code input accordingly.
