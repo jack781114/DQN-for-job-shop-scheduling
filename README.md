@@ -9,7 +9,9 @@ In the realm of scheduling solutions, universal algorithms such as Simulated Ann
 Reinforcement Learning (RL), as a learning algorithm that considers long-term objectives, is a mathematical model that contemplates the relationship between states and actions and is capable of learning. Compared to the previous two methods, it can be applied to scheduling in various scenarios and respond quickly. According to this reference paper, it achieves high-speed, effective scheduling adaptable to various situations. In this project, we implemented DQN, GA, and LPT for sequential scheduling comparison, proving that DQN is superior to the other two methods.
 
 # Methodology
+The experimental framework is illustrated in the following diagram.
 ![Model_structure](https://github.com/jack781114/DQN-for-job-shop-scheduling/assets/102982532/7900ee85-b7e6-4cf2-bda3-3233beee762b)
+This DQN architecture incorporates Dueling DQN and experience replay.
 
 # How to redo this result
 1. Select the data to be used for scheduling from main, JSP_env, and test_case_GA, and modify the code input accordingly.
