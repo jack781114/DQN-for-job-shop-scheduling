@@ -15,7 +15,7 @@ The experimental framework is illustrated in the following diagram.
 
 This architecture incorporates Dueling DQN and experience replay.  
 The functionalities of each code are as follows:  
-JSP_env: Simulates the Job Scheduling Problem (JSP) environment.The state space is represented as State() = (M, J).(M=numbers of Machine,J=numbers of Job)<br>
+JSP_env: Simulates the Job Scheduling Problem (JSP) environment.The state space is represented as State() = (M, J)(M=numbers of Machine,J=numbers of Job).Reward's design makes reference to the time difference between jobs and design a penalty (reward) weighting for those jobs that finish faster or slower.<br>
 
 ![rEWARD](https://github.com/jack781114/DQN-for-job-shop-scheduling/assets/102982532/40334e60-7453-457a-b6f1-8b3d59de5ca2)  
 
