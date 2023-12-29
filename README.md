@@ -17,11 +17,17 @@ This architecture incorporates Dueling DQN and experience replay.
 The functionalities of each code are as follows:
 
 Agent: Decision unit responsible for updating the Q-table and handling rewards.
+
 RL_network: Neural network architecture incorporating Dueling DQN.
+
 Memory/Prememory: Storage for experiences with different priorities.
+
 sum_tree: Decision unit for experience replay.
+
 action_space: Defines the set of actions.
+
 JSP_env: Simulates the Job Scheduling Problem (JSP) environment.
+
 main/test_case_GA: Executable files.
 
 # How to redo this result
