@@ -31,6 +31,10 @@ main/test_case_GA: Executable files.
 2. After execution, you will be able to observe the scheduling results for different methods.
 3. You can further enhance the results of DQN by modifying the Agent and RL_network.
 
+The following is the execution result.(use la16)
+![image](https://github.com/jack781114/DQN-for-job-shop-scheduling/assets/102982532/f70ade1b-6f75-46b7-ae51-fa0a8729c0f9)
+![image](https://github.com/jack781114/DQN-for-job-shop-scheduling/assets/102982532/c9728e19-77a2-4ab4-9dfc-ee98a91e9d81)
+
 # Reference
 - Luo, S., Zhang, L. X., & Fan, Y. S. (2021). Dynamic multi-objective scheduling for flexible job shop by deep reinforcement learning. Computers & Industrial Engineering, 159, Article 107489. https://doi.org/10.1016/j.cie.2021.107489 
 - Yang, H. B., Li, W. C., & Wang, B. (2021). Joint optimization of preventive maintenance and production scheduling for multi-state production systems based on reinforcement learning. Reliability Engineering & System Safety, 214, Article 107713. https://doi.org/10.1016/j.ress.2021.107713
