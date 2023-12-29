@@ -14,6 +14,15 @@ The experimental framework is illustrated in the following diagram.
 ![Model_structure](https://github.com/jack781114/DQN-for-job-shop-scheduling/assets/102982532/7900ee85-b7e6-4cf2-bda3-3233beee762b)
 
 This architecture incorporates Dueling DQN and experience replay.
+The functionalities of each code are as follows:
+
+Agent: Decision unit responsible for updating the Q-table and handling rewards.
+RL_network: Neural network architecture incorporating Dueling DQN.
+Memory/Prememory: Storage for experiences with different priorities.
+sum_tree: Decision unit for experience replay.
+action_space: Defines the set of actions.
+JSP_env: Simulates the Job Scheduling Problem (JSP) environment.
+main/test_case_GA: Executable files.
 
 # How to redo this result
 1. Select the data to be used for scheduling from main, JSP_env, and test_case_GA, and modify the code input accordingly.
